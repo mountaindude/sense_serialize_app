@@ -1,0 +1,25 @@
+{
+  "name": "sense_serialize_app",
+  "version": "1.0.0",
+  "description": "Serializes Sense app metadata to disk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mountaindude/sense_serialize_app.git"
+  },
+  "author": "Göran Sander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mountaindude/sense_serialize_app/issues"
+  },
+  "homepage": "https://github.com/mountaindude/sense_serialize_app#readme",
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "qsocks": "^3.0.0",
+    "serializeapp": "^2.0.0",
+    "yargs": "^4.7.1"
+  }
+}
