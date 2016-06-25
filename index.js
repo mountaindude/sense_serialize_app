@@ -1,5 +1,5 @@
-var qsocks = require('qsocks')
-var serializeapp = require('serializeapp')
+var qsocks = require('qsocks');
+var serializeapp = require('serializeapp');
 var fs = require('fs-extra');
 var yargs = require('yargs');
 
@@ -52,5 +52,5 @@ qsocks.Connect(config).then(function(global) {
 
 	    }
 
-		})
-})
+		});
+});
