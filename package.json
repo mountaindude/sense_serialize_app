@@ -20,6 +20,6 @@
     "fs-extra": "^0.30.0",
     "qsocks": "^3.0.0",
     "serializeapp": "^2.0.0",
-    "yargs": "^4.7.1"
+    "yargs": "^13.1.0"
   }
 }
